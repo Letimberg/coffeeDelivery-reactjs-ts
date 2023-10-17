@@ -69,7 +69,7 @@ Em construção.
 
 ## 📑 Instruções
 
--   Clonar repositório: <pre> git clone https://github.com/Letimberg/toDo-List-reactjs-ts.git </pre>
+-   Clonar repositório: <pre> git clone https://github.com/Letimberg/coffeeDelivery-reactjs-ts.git </pre>
 -   Instalar dependências: <pre>npm i</pre>
 -   Instalar dependências extra:
     <pre>
@@ -79,7 +79,7 @@ Em construção.
     npm i @types/styled-components -D
     </pre>
 -   Iniciar o servidor local: <pre>npm run dev</pre>
--   Acessar o projeto: <pre>http://localhost:8082/</pre>
+-   Acessar o projeto: <pre>http://localhost:8083/</pre>
 
 ## 🚧 Requisitos
 

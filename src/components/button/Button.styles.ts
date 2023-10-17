@@ -14,8 +14,8 @@ const buttonVariants = {
 }
 
 export const ButtonContainer = styled.button<ButtonContainerProps>`
-    width: 100px;
-    height: 40px;
+    width: 400px;
+    height: 140px;
     border-radius: 4px;
     border: 0;
     margin: 8px;
